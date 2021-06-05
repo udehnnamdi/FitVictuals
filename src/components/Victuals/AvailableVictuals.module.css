@@ -1,0 +1,34 @@
+.victuals {
+    max-width: 60rem;
+    width: 90%;
+    margin: 2rem auto;
+    animation: meals-appear 1s ease-out forwards;
+  }
+
+  .VictualsLoading {
+    text-align: center;
+    color: white;
+  }
+  
+  .VictualsError {
+    text-align: center;
+    color: red;
+  }
+
+  .victuals ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  @keyframes victuals-appear {
+    from {
+      opacity: 0;
+      transform: translateY(3rem);
+    }
+  
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
