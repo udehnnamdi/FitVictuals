@@ -13,4 +13,4 @@
 ## Live Site
 To access the FitVictuals App, click on this link [FitVictuals](https://fitvictuals-d2d35.web.app/)
 
-![Food Order Application](https://i.ibb.co/ctY6fRn/dan-gold-4-jh-DO54-BYg-unsplash.jpg)
+![Food Order Application](https://i.ibb.co/svXbhJw/Screenshot-26.png)
