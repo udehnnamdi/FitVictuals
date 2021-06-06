@@ -1,14 +1,14 @@
-# fitVictuals-React-App
+# FitVictuals-React-App
 ## TABLE OF CONTENTS
 * [Live Site](#Live-Site)
-* [About](#About-fitVictuals)
+* [About](#About-FitVictuals)
 * [Technologies](#Technologies)
 * [Setup](#Setup)
-* [Features](#fitVictuals-Features)
+* [Features](#FitVictuals-Features)
 * [Status](#Status)
-* [Why fitVictuals?](#Why-fitVictuals)
+* [Why FitVictuals?](#Why-FitVictuals)
 * [Contact](#Contact)
 * [License](#License)
 
 ## Live Site
-To access the fitVictuals App, click on this link [fitVictuals](https://fitvictuals-d2d35.web.app/)
+To access the FitVictuals App, click on this link [FitVictuals](https://fitvictuals-d2d35.web.app/)
