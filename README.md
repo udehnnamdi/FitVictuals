@@ -39,7 +39,7 @@ Firebase
 
 ## FitGuild Features
 - Access Restaurants and food providers in your city
-- Order delicious and healthy food with just a few clicks
+- Order your favourite, healthy food with just a few clicks
 
 
 ## Status 
