@@ -37,7 +37,7 @@ Firebase
 3. Run ~ npm install to install all required dependencies (this will create a /node_modules folder).
 4. Connect to localhost:3000 on your web browser, or [click here](http://localhost:3000/) 
 
-## FitGuild Features
+## FitVictuals Features
 - Access Restaurants and food providers in your city
 - Order your favourite, healthy food with just a few clicks
 
@@ -46,7 +46,7 @@ Firebase
 Completed
 
 
-## Why fitGuild
+## Why FitVictuals
 The app was created as a with the sole purpose of providing clients with easy access to the healthy dishes, as well as easy access to their favourite restaurants in a city.
 
 ## Contact
