@@ -16,7 +16,7 @@ To access the FitVictuals App, click on this link [FitVictuals](https://fitvictu
 ![Food Order Application](https://i.ibb.co/svXbhJw/Screenshot-26.png)
 
 ## About FitVictuals
-The FitVictuals app is an app that allows clients to use their smartphone, tablet computer or laptop to place a food order from all of the partner restaurants in a city.
+The FitVictuals app is an app that allows clients to use their smartphone, tablet computer or laptop to place a food order from all of the partner restaurants and food providers in a city.
 
 ## Technologies
 Html 5
@@ -33,25 +33,21 @@ Firebase
 
 ## Setup
 1. Fork and clone this repository
-2. Run ~ Git Bash
-3. cd into the fitGuild folder
-4. Run ~ nodemon app.js
-5. Connect to localhost:3000 on your web browser, or [click here](http://localhost:3000/)
+2. Navigate into the FitVictuals folder via the cd command in your command prompt or terminal first.
+3. Run ~ npm install to install all required dependencies (this will create a /node_modules folder).
+4. Connect to localhost:3000 on your web browser, or [click here](http://localhost:3000/) 
 
 ## FitGuild Features
-- Access fitness meetup groups across the globe
-- Upload your fitness studios, gyms, and fitness meetup groups
-- review the fitness groups posted by other users
-- Track your fitness location on the world map
-- connect with like-minded people
+- Access Restaurants and food providers in your city
+- Order delicious and healthy food with just a few clicks
+
 
 ## Status 
 Completed
 
-The fitGuild app performs the CRUD functionality
 
 ## Why fitGuild
-The app was created as a result of my personal affinity for fitness and a healthy lifestyle. Being a fitness enthusiast and someone who was formerly a fitness trainer, I have come to the realization that one of the main issues faced by individuals who are starting out on the fitness path, is the lack of knowledge of accessible fitness studios, gyms, and meetup groups, where they can connect with like-minded people who are on the same journey. This app serves as a resource for those who are seeking to improve their health and fitness.
+The app was created as a with the sole purpose of providing clients with easy access to the healthy dishes, as well as easy access to their favourite restaurants in a city.
 
 ## Contact
 Created by [Nnamdi Udeh](http://www.linkedin.com/in/nnamdi-udeh-630a33185)
