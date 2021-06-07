@@ -27,6 +27,8 @@ Javascript
 
 React.js
 
+React hooks
+
 Firebase
 
 ## Setup
