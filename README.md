@@ -47,7 +47,7 @@ Completed
 
 
 ## Why FitVictuals
-The app was created as a with the sole purpose of providing clients with easy access to the healthy dishes, as well as easy access to their favourite restaurants in a city.
+The app was created with the sole purpose of providing clients with easy access to the healthy dishes, as well as easy access to their favourite restaurants in a city.
 
 ## Contact
 Created by [Nnamdi Udeh](http://www.linkedin.com/in/nnamdi-udeh-630a33185)
